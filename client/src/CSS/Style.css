@@ -1,0 +1,579 @@
+.HomePage img {
+  height: 800px;
+  width: 1552px;
+  position: fixed;
+  left: -1%;
+}
+
+.HomePage .Log_In_btn {
+  position: absolute;
+  top: 5%;
+  left: 85%;
+  transform: translate(-40%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 15px;
+  padding: 12.5px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 120px;
+}
+
+.HomePage .Sign_Up_btn {
+  position: absolute;
+  top: 5%;
+  left: 93%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: black;
+  color: white;
+  font-size: 15px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 120px;
+}
+
+.HomePage .mainheader {
+  position: absolute;
+  top: 4%;
+  left: 8%;
+  text-align: center;
+  color: rgb(9, 4, 4);
+  font-size: 40px;
+  font-style: bold;
+}
+
+.HomePage .text {
+  position: absolute;
+  top: 30%;
+  left: 8.5%;
+  text-align: center;
+  color: rgb(77, 17, 17);
+  font-size: 70px;
+  font-weight: 600;
+  font-style: bold;
+}
+
+.HomePage .leftmenu {
+  position: absolute;
+  top: 3%;
+  left: 2%;
+  text-align: center;
+  color: black;
+  font-size: 30px;
+  font-style: bold;
+  background-color: transparent;
+  border: 2px solid transparent;
+}
+
+.HomePage .locationbar {
+  width: 38%;
+  position: absolute;
+  text-align: center;
+  top: 45%;
+  left: 8%;
+  position: absolute;
+  background-color: transparent;
+  border: transparent;
+}
+
+.HomePage .dropdown {
+  width: 28%;
+  position: absolute;
+  text-align: center;
+  top: 46%;
+  left: 36%;
+  position: absolute;
+  background-color: transparent;
+  color: white;
+  border: transparent;
+}
+
+.HomePage .findbookbtn {
+  position: absolute;
+  top: 46%;
+  left: 54.8%;
+  background-color: rgb(35, 136, 87);
+  color: white;
+  font-size: 15px;
+  padding: 8px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+.menu {
+  position: absolute;
+  background-color: rgb(204, 216, 217);
+}
+
+.menu .leftmenubtn1 {
+  position: absolute;
+  background-color: white;
+  color: black;
+  font-size: 30px;
+  padding: 7px 125px;
+  border: none;
+  cursor: pointer;
+  border-radius: 120px;
+}
+
+.menu .leftmenubtn2 {
+  position: absolute;
+  background-color: black;
+  color: white;
+  top: 22%;
+  font-size: 30px;
+  padding: 7px 112px;
+  border: none;
+  cursor: pointer;
+  border-radius: 120px;
+}
+
+.menu .leftmenubtn3 {
+  top: 82%;
+  position: absolute;
+  background-color: transparent;
+  color: black;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  border-radius: 120px;
+}
+
+.menu .leftmenubtn4 {
+  top: 87%;
+  position: absolute;
+  background-color: transparent;
+  color: black;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  border-radius: 120px;
+}
+
+.menu .leftmenubtn5 {
+  top: 92%;
+  position: absolute;
+  background-color: transparent;
+  color: black;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  border-radius: 120px;
+}
+
+.HomePage .sellbooks {
+  height: 0px;
+  width: 100px;
+  position: fixed;
+  left: -1%;
+}
+
+/**********************************************************CustomerHome*************************************************************/
+.navbar {
+  font-style: italic;
+}
+
+.searchbar {
+  transform: translate(-115%, 50%);
+  -ms-transform: translate(50%, 50%);
+  width: 500px;
+}
+
+.searchbtn {
+  transform: translate(-40%, -50%);
+  -ms-transform: translate(50%, 50%);
+  color: white;
+  width: 30%;
+  background-color: rgb(107, 206, 234);
+  border: transparent;
+}
+
+.cart_btn {
+  background-color: transparent;
+  position: absolute;
+  color: white;
+  border: white;
+  fill: white;
+  transform: translate(1610%, -118%);
+  -ms-transform: translate(50%, 50%);
+  width: 5%;
+  height: 9%;
+  font-size: 40px;
+}
+
+.heart_btn {
+  background-color: transparent;
+  position: absolute;
+  color: white;
+  border: white;
+  fill: white;
+  transform: translate(1700%, -118%);
+  -ms-transform: translate(50%, 50%);
+  width: 5%;
+  height: 9%;
+  font-size: 40px;
+}
+
+.person_btn {
+  background-color: transparent;
+  position: absolute;
+  color: white;
+  border: white;
+  fill: white;
+  transform: translate(1790%, -118%);
+  -ms-transform: translate(50%, 50%);
+  width: 5%;
+  height: 9%;
+  font-size: 40px;
+}
+
+.title {
+  transform: translate(80%, 0%);
+  -ms-transform: translate(50%, 50%);
+}
+
+.leftmenu2 {
+  position: absolute;
+  top: 2%;
+  left: 2%;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  font-style: bold;
+  background-color: transparent;
+  border: 2px solid transparent;
+}
+
+.menu2 {
+  position: absolute;
+  background-color: rgb(204, 216, 217);
+}
+
+.menu2 .leftmenu2btn1 {
+  position: absolute;
+  transform: translate(10%, 90%);
+  background-color: transparent;
+  color: rgb(38, 63, 119);
+  width: 150px;
+  font-size: 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 90px;
+}
+
+.menu2 .leftmenu2btn2 {
+  transform: translate(-33%, 1010%);
+  width: 350px;
+  position: absolute;
+  background-color: transparent;
+  color: black;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  border-radius: 120px;
+}
+
+.menu2 .leftmenu2btn3 {
+  transform: translate(-50%, 1090%);
+  width: 190px;
+  position: absolute;
+  background-color: transparent;
+  color: black;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  border-radius: 120px;
+}
+
+.menu2 .leftmenu2btn4 {
+  transform: translate(-45%, 1170%);
+  width: 250px;
+  position: absolute;
+  background-color: transparent;
+  color: black;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  border-radius: 120px;
+}
+
+.menu2 .name {
+  position: absolute;
+  transform: translate(94%, -20%);
+  background-color: transparent;
+  color: rgb(0, 0, 0);
+  font-style: oblique;
+  width: 150px;
+  font-size: 35px;
+  border: none;
+  cursor: pointer;
+  border-radius: 90px;
+}
+
+.menu2 .order_icon {
+  transform: translate(10%, 300%);
+}
+
+.menu2 .coupon_icon {
+  transform: translate(10%, 400%);
+}
+
+.menu2 .leftmenu2btn5 {
+  position: absolute;
+  transform: translate(60%, -30%);
+  background-color: transparent;
+  font-weight: 400;
+  color: rgb(0, 0, 0);
+  width: 150px;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  border-radius: 90px;
+}
+
+.menu2 .leftmenu2btn6 {
+  position: absolute;
+  transform: translate(50%, 125%);
+  background-color: transparent;
+  font-weight: 400;
+  color: rgb(0, 0, 0);
+  width: 190px;
+  font-size: 25px;
+  border: none;
+  cursor: pointer;
+  border-radius: 90px;
+}
+
+.menu2 .line {
+  transform: translate(28%, -195%);
+  -ms-transform: translate(50%, 50%);
+  font-size: 80px;
+  font-weight: 100;
+  color: rgb(107, 206, 234);
+}
+
+.slideshow {
+  top: -13%;
+  left: 73%;
+  height: 500px;
+  width: 400px;
+}
+
+.salerow {
+  background-color: antiquewhite;
+  width: 100.8%;
+}
+
+.salehead {
+  transform: translate(10%, 120%);
+  font-size: 50px;
+  font-style: bold;
+  font-weight: 700;
+  color: rgb(15, 5, 92);
+}
+
+.saledescription {
+  transform: translate(10%, 400%);
+  font-size: 20px;
+  font-style: bold;
+  font-weight: 400;
+  color: rgb(7, 9, 102);
+}
+
+.salebtn {
+  position: absolute;
+  transform: translate(75%, 400%);
+  background-color: black;
+  font-weight: 400;
+  color: white;
+  width: 230px;
+  font-size: 40px;
+  border: none;
+  cursor: pointer;
+  border-radius: 30px;
+}
+
+.prom_text {
+  transform: translate(-2%, -15%);
+}
+
+.cardgroup {
+  transform: translate(0%, 10%);
+  width: 100%;
+}
+
+.cardgroup2 {
+  transform: translate(0%, 0%);
+  width: 100%;
+}
+
+.featuredbooks {
+  transform: translate(2.5%, 80%);
+  width: 32%;
+  height: 100%;
+  font-size: 60px;
+  font-style: italic;
+  font-weight: 1000;
+  background-color: rgba(5, 51, 51, 0.889);
+  color: white;
+  border-radius: 30px;
+}
+
+.LabelForm {
+  font-style: italic;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.kadyImage {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.box1 {
+  transform: translate(-150%, 150%);
+}
+.box1text {
+  transform: translate(-150%, 200%);
+  color: black;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.box2 {
+  transform: translate(-150%, 250%);
+}
+.box2text {
+  transform: translate(-150%, 370%);
+  color: black;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.box3 {
+  transform: translate(-150%, 350%);
+}
+.box3text {
+  transform: translate(-150%, 520%);
+  color: black;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.box4 {
+  transform: translate(-150%, 450%);
+}
+.box4text {
+  transform: translate(-150%, 680%);
+  color: black;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.box5 {
+  transform: translate(-150%, 550%);
+}
+.box5text {
+  transform: translate(-150%, 820%);
+  color: black;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.box6 {
+  transform: translate(6%, -940%);
+}
+.box6text {
+  transform: translate(6%, -1510%);
+  color: black;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.box7 {
+  transform: translate(6%, -830%);
+}
+.box7text {
+  transform: translate(6%, -1350%);
+  color: black;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.box8 {
+  transform: translate(6%, -730%);
+}
+.box8text {
+  transform: translate(6%, -1200%);
+  color: black;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.box9 {
+  transform: translate(6%, -640%);
+}
+.box9text {
+  transform: translate(6%, -1030%);
+  color: black;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.box10 {
+  transform: translate(6%, -540%);
+}
+.box10text {
+  transform: translate(6%, -900%);
+  color: black;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.box11 {
+  transform: translate(150%, -2020%);
+}
+.box11text {
+  transform: translate(150%, -3220%);
+  color: black;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.box12 {
+  transform: translate(150%, -1910%);
+}
+.box12text {
+  transform: translate(150%, -3060%);
+  color: black;
+  font-style: italic;
+  font-weight: 700;
+}
+
+.viewbtn {
+  background-color: rgb(24, 93, 55);
+  border: 0;
+  font-size: 12px;
+  width: 30%;
+}
+
+.combo {
+  width: 50%;
+}
+
+.salebtn2 {
+  position: absolute;
+  transform: translate(200%, 400%);
+  background-color: black;
+  font-weight: 400;
+  color: white;
+  width: 230px;
+  font-size: 40px;
+  border: none;
+  cursor: pointer;
+  border-radius: 30px;
+}

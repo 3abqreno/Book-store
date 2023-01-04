@@ -1,0 +1,106 @@
+
+.CouponForm {
+    position:absolute;
+    background-size:cover;
+    margin-left: auto;
+    margin-right: auto;
+    width: 996px;
+    left:15%;
+    top: 8%;
+  }
+
+  .signup {
+    background-size:cover;
+    height: 100%;
+    background-position: center;
+
+  }
+
+  .login {
+    background-size:cover;
+    height: 100%;
+    background-position: center;
+   
+  }
+  .course-card{
+    margin: 14px 0;
+    min-height: 300px;
+}
+.card-title{
+    text-transform: capitalize;
+}
+.card-btn{
+    background-color: var(--darkColor) !important;
+    text-transform: capitalize;
+}
+.username
+{
+  color: rgb(255, 255, 255);
+}
+.uname
+{
+  font-size: 200%;
+  font-style:oblique;
+  font-weight: 500;
+  margin-left: 37.3%;
+}
+.info{
+  margin-left: 20%;
+  width:40%;
+}
+.text
+{
+  font-weight: 500;
+}
+/* .text2
+{
+  font-weight: 500;
+  margin-top: 4px;
+  margin-bottom: 2px;
+} */
+.box{
+  background-color: rgb(226, 226, 226);
+}
+.logout
+{
+  background-color: rgb(226, 226, 226);
+  color: rgb(215, 0, 0);
+  border-color: rgb(226, 226, 226);
+}
+.btnss
+{
+  transform: translate(-20%,10%);
+  width:20px;
+}
+.price
+{
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+  transform: translate(7%,-90%);
+}
+.description
+{
+  transform: translate(0.5%,-220%);
+}
+.p{
+  transform: translate(0.5%,-2%);
+}
+.tit
+{
+  transform: translate(-15%,0%);
+}
+.image
+{
+  transform: translate(10%,0%);
+}
+.author
+{
+  transform: translate(0.5%,-110%);
+}
+.a{
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+  transform: translate(9%,-180%);
+}
